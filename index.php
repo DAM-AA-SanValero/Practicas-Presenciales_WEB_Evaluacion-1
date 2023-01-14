@@ -12,11 +12,12 @@
             </div>
             <div id="formulario">
                 <form method="post" action="controller/login.php">
-                    <label for="user">Nombre de usuario:</label><br>
+                    <label for="user">Nombre de usuario</label><br>
                     <input type="text" name="user" id="name"><br>
                     <label for="password">Contraseña</label><br>
                     <input type="password" name="password" id="password"><br>
-                    <input type="submit" id="btn-enviar" value="Iniciar sesión">
+                    <input type="image" id="btn-enviar" src="images/iniciar.png" class="iniciar">
+
                 </form>
             </div>
         </div>
