@@ -11,7 +11,7 @@
                 <h2>Inicia sesión para acceder a tu perfil</h2>
             </div>
             <div id="formulario">
-                <form method="post" action="../controller/login.php">
+                <form method="post" action="controller/login.php">
                     <label for="user">Nombre de usuario:</label><br>
                     <input type="text" name="user" id="name"><br>
                     <label for="password">Contraseña</label><br>

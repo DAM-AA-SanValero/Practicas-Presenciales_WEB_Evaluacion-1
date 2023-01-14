@@ -1,6 +1,6 @@
 <div id="container">
     <?php
-    include "headerprofile.php";
+    include "headererror.php";
     ?>
     <section>
         <div id="error">
