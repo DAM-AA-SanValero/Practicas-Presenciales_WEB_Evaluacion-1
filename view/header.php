@@ -7,5 +7,5 @@
 </head>
 <body>
 <header>
-    <h1>BIENVENIDO/A A LA SEMANA DE PRÁCTICAS</h1>
+    <h1>SEMANA DE PRÁCTICAS - ENERO 2023</h1>
 </header>

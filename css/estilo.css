@@ -56,9 +56,25 @@ div#element {
     border-radius: 20px;
     display: flex;
     flex-direction: column;
-    margin-top: 80px;
+    margin-top: 40px;
+    padding: 20px;
 
 
+}
+#redes {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+h3{
+    margin-top:10px;
+}
+
+
+#red{
+    margin: 40px 5px;
+    cursor: pointer;
 }
 
 #tabla h2 {
@@ -78,13 +94,18 @@ footer {
     padding: 30px;
     background-color: #6d000e;
     color: #fff;
-    height:200px;
+    height:300px;
     
 }
 
 footer h2 {
     text-align: center;
     padding-bottom: 30px;
+    cursor: pointer;
+}
+
+footer p {
+    cursor: pointer;
 }
 
 form {
@@ -105,7 +126,7 @@ input#password {
 }
 
 input#btn-enviar {
-    margin-top: 5px;
+    margin-top: 20px;
 }
 
 a:link{
@@ -126,12 +147,18 @@ div#error {
 
 }
 
-.titulo h2 {
-    text-decoration: underline;
-}
-
 .volver{
     margin-top: 10px;
+}
+
+img.editar, img.persona, img.cursos, img.imagen {
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+
+img.cerrar, img.volver{
+    margin-top: 30px;
 }
 
 
