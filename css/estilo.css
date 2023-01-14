@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: turquoise;
+}
+
+#container {
+    max-width: 100%;
+    border: 1px #000 solid;
+}
+
+header {
+    background-color: #6d000e;
+    border-bottom: 1px #000 solid;
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+
+
+}
+
+header h1 {
+    margin: 20px 0;
+}
+
+header h2 {
+    margin-bottom: 30px;
+}
+
+section {
+    padding: 30px;
+    background-color: #facd91;
+    text-align: center;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+div#miperfil {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div#element {
+    border: solid 2px #000;
+    margin: 20px;
+    padding: 20px;
+}
+
+#tabla {
+    width: 35%;
+    border: 2px #000 solid;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+
+
+}
+
+#tabla h2 {
+    margin: 20px 0;
+}
+
+#tabla h3 {
+    padding: 15px;
+    border-top: 2.5px #000 dotted;
+}
+
+#tabla a:link {
+    text-decoration: none;
+}
+
+footer {
+    padding: 30px;
+    background-color: #6d000e;
+    color: #fff;
+    height:200px;
+    
+}
+
+footer h2 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+form {
+    margin-top: -15px;
+}
+
+#formulario {
+    text-align: center;
+    margin: 20px;
+}
+
+input#name {
+    margin: 5px 0;
+}
+
+input#password {
+    margin: 5px 0;
+}
+
+input#btn-enviar {
+    margin-top: 5px;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+div#miperfil {
+    border-radius: 20px;
+    margin-top: 80px;
+
+
+}
+
+.titulo h2 {
+    text-decoration: underline;
+}
+
+.volver{
+    margin-top: 10px;
+}
+
+
