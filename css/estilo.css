@@ -119,6 +119,13 @@ div#miperfil {
 
 }
 
+div#error {
+    border-radius: 20px;
+    margin-top: 80px;
+
+
+}
+
 .titulo h2 {
     text-decoration: underline;
 }
